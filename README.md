@@ -1,16 +1,13 @@
-# flutter_appbar_4
+Herkese Merhaba !
 
-A new Flutter project.
+Bu proje Flutter kullanarak basit bir mobil uygulama geliştirmenize yardımcı olacak bir örnektir. Proje ,appBar örneği içermekte olup, özellikle Flutter'a yeni başlayanlar için ideal bir kaynak sunmaktadır.
 
-## Getting Started
+Bu projede AppBar ve Drawer Header widget'larını kullanarak farklı bir mobil uygulama arayüzlerinin nasıl oluşturulabileceğini göstermek istedim. Bu proje, mobil uygulama geliştiricilerine, basit ve kullanışlı bir arayüz bileşeni olan AppBar'ın nasıl kullanılabileceği konusunda yardımcı olmayı amaçlamaktadır.
 
-This project is a starting point for a Flutter application.
+Flutter, kullanımı kolay arayüz bileşenleri ve hızlı performansı ile mobil uygulama geliştirmenin en popüler araçlarından biridir. Proje, Flutter'ın temel kavramlarına aşina olmanızı ve bir mobil uygulama geliştirmek için gerekli olan adımları öğrenmenizi sağlayacaktır.
 
-A few resources to get you started if this is your first Flutter project:
+Bu seride toplamda 10 tane farklı eklentileriyle AppBar projeleri paylaşacağım.Takipte kalın...
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Flutter_AppBar_4 1](https://user-images.githubusercontent.com/114624213/226483007-20712f22-968b-4614-bf3c-eae32037d0ad.jpg)
+![Flutter_AppBar_4 2](https://user-images.githubusercontent.com/114624213/226483019-31a85a35-5c6d-442d-af4c-63d5f7ecb253.jpg)
